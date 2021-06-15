@@ -1,7 +1,7 @@
 {
   "name": "react-star-wars",
   "version": "0.1.0",
-  "homepage": "https://github.com/tsYaroslav/react-star-wars",
+  "homepage": "https://tsyaroslav.github.io/star-wars/",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
